@@ -1,0 +1,30 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "history": "^4.6.3",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-addons-transition-group": "^15.6.0",
+    "reactstrap": "^4.8.0",
+    "react-bootstrap-table": "^3.1.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-transition-group": "^1.2.0",
+    "redux": "^3.6.0",
+    "redux-saga": "^0.15.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

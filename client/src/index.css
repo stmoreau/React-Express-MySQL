@@ -1,0 +1,63 @@
+.App {
+  margin-top: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+* {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.btn.btn-ll5 {
+  font-size: 16px;
+  font-weight: 300;
+  margin-left: 5px;
+  background-color: #ff8200;
+}
+.btn.btn-ll5:active,
+.btn.btn-ll5:hover,
+.btn.btn-ll5:focus {
+  background-color: #e67500 !important;
+  color: #fff !important;
+}
+
+.navbar-brand > img {
+  position: absolute;
+  left: 0%;
+  height: 60px;
+}
+
+.jumbotron {
+  background-color: #002744 !important;
+  color: #ffffff;
+}
+
+.jumbotron-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 1rem;
+}
+
+.top10 {
+  margin-top: 10px;
+}
